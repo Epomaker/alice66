@@ -2,8 +2,6 @@
 
 A customizable 66key keyboard.
 
-![th60](https://raw.githubusercontent.com/Linyer-qwq/image/main/th60.jpg)
-
 * Keyboard Maintainer: [Epomaker](https://github.com/Epomaker)
 * Hardware Supported: Alice66 PCB with es32fs026 microcontroller
 
